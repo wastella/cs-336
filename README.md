@@ -1,6 +1,6 @@
 # CS336 (self-audit)
 
-My progress (and eventually final product) from working through [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/).
+My solutions to [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/) from working through it independently on livestream.
 
 ## Progress
 
