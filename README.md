@@ -1,4 +1,4 @@
-# CS336 (self-audit)
+# CS336: Language Modeling From Scratch 
 
 My solutions to [Stanford CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/) from working through it independently on livestream.
 
